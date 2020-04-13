@@ -1,0 +1,133 @@
+body {
+    background-image: url("PR pic.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+   
+h1 {
+    color:#E1EFFF;
+    text-align: center;
+    border-style: double;
+    border-color: #383C40;
+    border-width: 3px;
+    padding: 5px;
+    font-family: 'Roboto Condensed', sans-serif;
+    
+}
+
+#section {
+    border-style: double;
+    border-color: #383C40;
+    border-width: 3px;
+    margin-bottom: 5px;
+    padding: 5px;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 20px;
+}
+
+#info {
+    margin-left: 30%;
+    width: 70%;
+}
+
+#top {
+    width: 70%;
+    margin-left: 30%;
+}
+
+#resume {
+    width: auto;
+    display: inline-block;
+    text-align: center;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+#clients {
+    width: auto;
+    display: inline-block;
+    text-align: center;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+#refs {
+    width: auto;
+    display: inline-block;
+    text-align: center;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+#links .col:hover {
+    color:#E1EFFF; 
+    background-color:#383C40;
+}
+
+
+#links .col {
+    background-color: grey;
+    margin: 1%;
+}
+
+.zoom:hover {
+    transform:scale(2);
+}
+
+.zoom1:hover {
+    transform:scale(2);
+}
+
+.zoom2:hover {
+    transform:scale(2);
+}
+
+.zoom3:hover {
+    transform:scale(2);
+}
+
+.zoom4:hover {
+    transform:scale(2);
+}
+
+.zoom5:hover {
+    transform:scale(2);
+}
+
+.zoom6:hover {
+    transform:scale(2);
+}
+
+.zoom7:hover {
+    transform:scale(2);
+}
+
+.zoom8:hover {
+    transform:scale(2);
+}
+
+.zoom9:hover {
+    transform:scale(2);
+}
+
+.zoom10:hover {
+    transform:scale(2);
+}
+
+.zoom11:hover {
+    transform:scale(2);
+}
+
+.zoom12:hover {
+    transform:scale(2);
+}
+
+.zoom13:hover {
+    transform:scale(2);
+}
+
+.zoom14:hover {
+    transform:scale(2);
+}
+
+.zoom15:hover {
+    transform:scale(2);
+}
